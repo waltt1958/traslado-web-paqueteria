@@ -35,7 +35,7 @@
 <a href="CARGADOenCI.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Ver e imprimir todo lo cargado</b></a>
 <br>
 <br>
-<a href="cierreFORZADO.asp" TARGET="_blank"><font size="6"><FONT COLOR="BLACK"><b>Ver todos los paquetes forzados el cierre hasta ayer</b></a>
+<a href="cierreFORZADO.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Ver todos los paquetes forzados el cierre hasta ayer</b></a>
 
 </body>
 

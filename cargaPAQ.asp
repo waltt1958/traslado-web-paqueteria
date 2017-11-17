@@ -11,7 +11,6 @@
 <br>
 <hr size= 6 color="black"></hr>
 
-<br>
 <FORM name="inicia" action="procesaPAQ.asp" method="post">
 
 <TABLE WIDTH= "100%" border="3" bordercolor="black">
@@ -26,17 +25,13 @@
 </TABLE>
 </FORM>
 
-
-<a href="CARGADOenPAQ.asp" TARGET="_blank"><font size="6"><FONT COLOR="BLACK"><b>Ver e imprimir todo lo cargado</b></a>
+<a href="CARGADOenPAQ.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Ver e imprimir todo lo cargado</b></a>
 <br>
-<BR>
 <a href="intermedia.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Ver diferencias de carga</b></a>
 <BR>
-<BR>
-<a href="intermedia.asp" TARGET="_blank"><font size="6"><FONT COLOR="BLACK"><b>Cerrar diferencias de carga hasta ayer</b></a>
+<a href="intermedia.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Cerrar diferencias de carga hasta ayer</b></a>
 <br>
-<br>
-<a href="cierreFORZADO.asp" TARGET="_blank"><font size="6"><FONT COLOR="BLACK"><b>Ver todos los paquetes forzados el cierre hasta ayer</b></a>
+<a href="cierreFORZADO.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Ver todos los paquetes forzados el cierre hasta ayer</b></a>
 </body>
 
 <SCRIPT Language="javascript" type="text/javascript">
