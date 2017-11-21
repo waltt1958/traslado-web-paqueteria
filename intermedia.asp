@@ -1,9 +1,10 @@
 <HTML>
 <HEAD>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" title="estilos.css" type="text/css" href="estilos.css">
 <title>AVISO DEPURACION</title>
 </HEAD>
-<body bgcolor="#FF00FF">
+<body>
 <H3 align= "right">Hoy es: <%=date%></H3>
 <center><h1><p align="center"><b><font size="10"> ANTES DE PRESIONAR EL LINK DE<BR> <U>"VER DIFERENCIAS DE CARGA"</U><BR> DEBE IMPRIMIR LOS PAQUETES LEIDOS. POSTERIORMENTE NO PODRA HACERLO</font size></b></p> </h1></center>
 

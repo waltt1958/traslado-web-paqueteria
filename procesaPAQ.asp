@@ -1,10 +1,10 @@
 <HTML>
 <HEAD>
 <title> Procesa carga de PAQ</title>
-
+<link rel="stylesheet" title="estilos.css" type="text/css" href="estilos.css">
 </HEAD>
 
-<body bgcolor="#FF00FF" onload="maximizar()">
+<body onload="maximizar()">
 
 <%
 

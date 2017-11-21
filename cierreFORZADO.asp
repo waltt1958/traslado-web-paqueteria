@@ -1,9 +1,10 @@
 <HTML>
 <HEAD>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" title="estilos.css" type="text/css" href="estilos.css">
 <title>CIERRE FORZADO</title>
 </HEAD>
-<body bgcolor="WHITE" onload="maximizar()">
+<body onload="maximizar()">
 <H3 align= "right">Hoy es: <%=date%></H3>
 
 <br>
@@ -31,6 +32,7 @@ rsCI.open sqlCI,conectarOEP
 
 
 %>
+<br>
 <TABLE WIDTH= "100%" border="3" bordercolor="black">
 
 <TR><CENTER><P ALIGN="CENTER"><FONT SIZE="6"><b><U> PAQUETES CON CIERRE FORZADO POR NO SER LEIDOS EN PAQUETERIA Y SI FUERON LEIDOS EN EL CI HASTA EL DIA DE AYER</U></FONT SIZE></b></P></CENTER></TR>

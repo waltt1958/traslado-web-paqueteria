@@ -1,13 +1,14 @@
 <HTML>
 <HEAD>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" title="estilos.css" type="text/css" href="estilos.css">
 <title>CIERRE HASTA AYER</title>
 </HEAD>
 <BR>
 <BR>
 <H3 align= "right">Hoy es: <%=date%></H3>
 
-<body bgcolor="#FF00FF" >
+<body>
 
 <%
 

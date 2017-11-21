@@ -1,12 +1,14 @@
 <HTML>
 
 <HEAD>
+<link rel="stylesheet" title="estilos.css" type="text/css" href="estilos.css">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title> PAQUETES A PASAR A PAQUETERIA</title>
 </HEAD>
 
-<body bgcolor="WHITE" onload="maximizar()">
+<body onload="maximizar()">
 <H3 align= "right">Hoy es: <%=date%></H3>
+<br>
 <center><h1><p align="center"><u><b><font size="12"> PAQUETES CARGADOS EN EL CI ROSARIO</font size></b></u></p> </h1></center>
 
 <br>
