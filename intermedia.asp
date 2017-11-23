@@ -10,25 +10,31 @@
 
 <BR>
 <BR>
-<a href="buscaDIFERENCIAS.asp" TARGET="_blank"><font size="6"><FONT COLOR="BLACK"><b>Ver diferencias de carga</b></a>
-<br>
-<br>
-<hr size= 6 color="black"></hr>
-<br>
-<a href="CARGADOenPAQ.asp" TARGET="_blank"><font size="6"><FONT COLOR="BLACK"><b>Ver e imprimir todo lo cargado</b></a>
-<BR>
-<BR>
-<a href="cierreFINAL.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Cerrar diferencias de carga hasta ayer</b></a>
-<br>
-<br>
-<a href="cierreFORZADO.asp" TARGET="_blank"><font size="6"><FONT COLOR="BLACK"><b>Ver todos los paquetes forzados el cierre hasta ayer</b></a>
-<BR>
-<BR>
+
 <table width="100%">
-<td align="center">
+<tr	align="center">
+<td>
+<a href="buscaDIFERENCIAS.asp" TARGET="_blank"><font size="6"><FONT COLOR="BLACK"><b>Ver diferencias de carga</b></a>
+</td>
+<td>
+<a href="CARGADOenPAQ.asp" TARGET="_blank"><font size="6"><FONT COLOR="BLACK"><b>Ver e imprimir todo lo cargado</b></a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="cierreFINAL.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Cerrar diferencias de carga hasta ayer</b></a>
+</td>
+<td>
+<a href="cierreFORZADO.asp" TARGET="_blank"><font size="6"><FONT COLOR="BLACK"><b>Ver todos los paquetes forzados el cierre hasta ayer</b></a>
+</td>
+</tr>
+<tr align="center">
+<td colspan=2>
+<br>
 <a href="index.asp" target="_self"><input type="button" name="INTERMEDIA" value="INICIO" style="FONT-SIZE: 20pt; border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a>
 </td>
+</tr>
 </table>
 
 </body>

@@ -33,18 +33,20 @@
 <BR>
 <BR>
 <BR>
-
-<a href="CARGADOenCI.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Ver e imprimir todo lo cargado</b></a>
-<br>
-<br>
-<a href="cierreFORZADO.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Ver todos los paquetes forzados el cierre hasta ayer</b></a>
-<br>
-<br>
 <table width="100%">
-<td align="center">
+<tr align="center">
+<td align="center"><a href="CARGADOenCI.asp" target="_self"><input type="button" name="cargadoENCI" value="Ver e imprimir lo cargado" style="FONT-SIZE: 20pt; border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
+BACKGROUND-COLOR: #C0C0C0"></a></td>
+<td align="center"><a href="cierreFORZADO.asp" target="_self"><input type="button" name="cierreFORZADO" value="Ver paquetes forzado el cierre hasta ayer" style="FONT-SIZE: 20pt; border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
+BACKGROUND-COLOR: #C0C0C0"></a></td>
+</tr>
+<tr>
+<td rowspan=2 align="center"></td>
+<td>
 <a href="index.asp" target="_self"><input type="button" name="cargaCI" value="INICIO" style="FONT-SIZE: 20pt; border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a>
-</td>
+</td align="center">
+</tr>
 </table>
 </body>
 
