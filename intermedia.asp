@@ -22,6 +22,14 @@
 <br>
 <br>
 <a href="cierreFORZADO.asp" TARGET="_blank"><font size="6"><FONT COLOR="BLACK"><b>Ver todos los paquetes forzados el cierre hasta ayer</b></a>
+<BR>
+<BR>
+<table width="100%">
+<td align="center">
+<a href="index.asp" target="_self"><input type="button" name="INTERMEDIA" value="INICIO" style="FONT-SIZE: 20pt; border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
+BACKGROUND-COLOR: #C0C0C0"></a>
+</td>
+</table>
 
 </body>
 

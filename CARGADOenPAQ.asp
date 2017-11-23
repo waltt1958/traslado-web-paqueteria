@@ -58,6 +58,14 @@ conectarOEP.close
 
 %>
 </TABLE>
+<BR>
+<BR>
+<table width="100%">
+<td align="center">
+<a href="index.asp" target="_self"><input type="button" name="CARGADOenPAQ" value="INICIO" style="FONT-SIZE: 20pt; border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
+BACKGROUND-COLOR: #C0C0C0"></a>
+</td>
+</table>
 </body>
 
 

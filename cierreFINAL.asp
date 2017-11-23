@@ -7,7 +7,6 @@
 <BR>
 <BR>
 <H3 align= "right">Hoy es: <%=date%></H3>
-
 <body>
 
 <%
@@ -36,6 +35,16 @@ conectarOEP.close
 
 
 <center><h1><p align="center"><b><font size="12"> TERMINO EL PROCESO DE CIERRE FORZADO DE LOS PAQUETES QUE NO FUERON LEIDOS EN EL CI O EN PAQUETERIA</font size></b></p> </h1></center>
+<BR>
+<BR>
+<table width="100%">
+<td align="center">
+<a href="index.asp" target="_self"><input type="button" name="cierreFINAL" value="INICIO" style="FONT-SIZE: 20pt; border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
+BACKGROUND-COLOR: #C0C0C0"></a>
+</td>
+</table>
+
+
 </body>
 
 </SCRIPT>

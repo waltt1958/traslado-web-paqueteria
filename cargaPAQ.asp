@@ -34,6 +34,15 @@
 <a href="intermedia.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Cerrar diferencias de carga hasta ayer</b></a>
 <br>
 <a href="cierreFORZADO.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Ver todos los paquetes forzados el cierre hasta ayer</b></a>
+
+<br>
+<br>
+<table width="100%">
+<td align="center">
+<a href="index.asp" target="_self"><input type="button" name="cargaPAQ" value="INICIO" style="FONT-SIZE: 20pt; border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
+BACKGROUND-COLOR: #C0C0C0"></a>
+</td>
+</table>
 </body>
 
 <SCRIPT Language="javascript" type="text/javascript">
