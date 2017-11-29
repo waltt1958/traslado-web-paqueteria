@@ -35,17 +35,17 @@
 <BR>
 <table width="100%">
 <tr align="center">
-<td align="center"><a href="CARGADOenCI.asp" target="_self"><input type="button" name="cargadoENCI" value="Ver e imprimir lo cargado" style="FONT-SIZE: 20pt; border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
+<td align="center">
+<a href="CARGADOenCI.asp" target="_self"><input type="button" name="cargadoENCI" value="Ver e imprimir lo cargado" style="FONT-SIZE: 20pt; width:600px;border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a></td>
-<td align="center"><a href="cierreFORZADO.asp" target="_self"><input type="button" name="cierreFORZADO" value="Ver paquetes forzado el cierre hasta ayer" style="FONT-SIZE: 20pt; border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
+<td align="center"><a href="cierreFORZADO.asp" target="_self"><input type="button" name="cierreFORZADO" value="Ver paquetes forzado el cierre hasta ayer" style="FONT-SIZE: 20pt;width:600px; border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a></td>
 </tr>
-<tr>
-<td rowspan=2 align="center"></td>
-<td>
-<a href="index.asp" target="_self"><input type="button" name="cargaCI" value="INICIO" style="FONT-SIZE: 20pt; border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
+<tr align="center">
+<td colspan=2>
+<a href="index.asp" target="_self"><input type="button" name="cargaCI" value="INICIO" style="FONT-SIZE: 20pt;width:150px;border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a>
-</td align="center">
+</td>
 </tr>
 </table>
 </body>

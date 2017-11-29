@@ -19,9 +19,9 @@
 <br>
 <table width="100%" align="center">
 <tr align="center">
-<td width="50%"><a href="cargaCI.asp" target="_self"><input type="button" name="ci" value="CARGA EN EL CI" style="FONT-SIZE: 20pt; border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
+<td width="50%"><a href="cargaCI.asp" target="_self"><input type="button" name="ci" value="CARGA EN EL CI" style="FONT-SIZE: 20pt;width:400px; border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a></td>
-<td width="50%"><a href="cargaPAQ.asp" target="_self"><input type="button" name="paq" value="CARGA EN PAQUETERIA" style="FONT-SIZE: 20pt;border: 5px solid;[b]FONT-FAMILY: Verdana, boldt[/b];
+<td width="50%"><a href="cargaPAQ.asp" target="_self"><input type="button" name="paq" value="CARGA EN PAQUETERIA" style="FONT-SIZE: 20pt;width:400px;border: 5px solid;[b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a></td>
 </tr>
 </table>

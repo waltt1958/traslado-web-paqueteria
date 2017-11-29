@@ -30,7 +30,7 @@
 <table width="100%">
 <tr align="center">
 <td align="center">
-<a href="CARGADOenPAQ.asp" target="_self"><input type="button" name="cargaCI" value="Ver e imprimir todo lo cargado" style="FONT-SIZE: 20pt; border: 5px solid;width=600px; [b]FONT-FAMILY: Verdana, boldt[/b];
+<a href="CARGADOenPAQ.asp" target="_self"><input type="button" name="cargaCI" value="Ver e imprimir todo lo cargado" style="FONT-SIZE: 20pt; border: 5px solid;width:600px; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a>
 <br>
 
@@ -38,7 +38,7 @@ BACKGROUND-COLOR: #C0C0C0"></a>
 </td>
 <td>
 
-<a href="intermedia.asp" target="_self"><input type="button" name="cargaCI" value="Ver diferencias de carga" style="FONT-SIZE: 20pt; border: 5px solid;width=600px; [b]FONT-FAMILY: Verdana, boldt[/b];
+<a href="intermedia.asp" target="_self"><input type="button" name="cargaCI" value="Ver diferencias de carga" style="FONT-SIZE: 20pt; border: 5px solid;width:600px; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a>
 <br>
 
@@ -49,7 +49,7 @@ BACKGROUND-COLOR: #C0C0C0"></a>
 <tr align="center">
 <td>
 
-<a href="intermedia.asp" target="_self"><input type="button" name="cargaCI" value="Cerrar diferencias de carga hasta ayer" style="FONT-SIZE: 20pt; border: 5px solid;width=600px; [b]FONT-FAMILY: Verdana, boldt[/b];
+<a href="intermedia.asp" target="_self"><input type="button" name="cargaCI" value="Cerrar diferencias de carga hasta ayer" style="FONT-SIZE: 20pt; border: 5px solid;width:600px; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a>
 <br>
 
@@ -58,7 +58,7 @@ BACKGROUND-COLOR: #C0C0C0"></a>
 </td>
 <td>
 
-<a href="cierreFORZADO.asp" target="_self"><input type="button" name="cargaCI" value="Ver todos los paquetes forzados el cierre hasta ayer" style="FONT-SIZE: 20pt; width=600px;border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
+<a href="cierreFORZADO.asp" target="_self"><input type="button" name="cargaCI" value="Ver todos los paquetes forzados el cierre hasta ayer" style="FONT-SIZE: 20pt; width:600px;border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a>
 <br>
 
@@ -68,7 +68,7 @@ BACKGROUND-COLOR: #C0C0C0"></a>
 <tr align="center">
 <td colspan=2 align="center">
 <br>
-<a href="index.asp" target="_self"><input type="button" name="cargaPAQ" value="INICIO" style="FONT-SIZE: 20pt; border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
+<a href="index.asp" target="_self"><input type="button" name="cargaPAQ" value="INICIO" style="FONT-SIZE: 20pt; border: 5px solid;width: 150px; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a>
 </td>
 </tr>
