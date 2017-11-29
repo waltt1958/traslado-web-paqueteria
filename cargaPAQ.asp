@@ -58,7 +58,7 @@ BACKGROUND-COLOR: #C0C0C0"></a>
 </td>
 <td>
 
-<a href="cierreFORZADO.asp" target="_self"><input type="button" name="cargaCI" value="Ver todos los paquetes forzados el cierre hasta ayer" style="FONT-SIZE: 20pt; width:600px;border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
+<a href="cierreFORZADO.asp" target="_self"><input type="button" name="cargaCI" value="Paquetes forzados el cierre hasta ayer" style="FONT-SIZE: 20pt; width:600px;border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a>
 <br>
 

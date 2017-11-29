@@ -38,7 +38,7 @@ BACKGROUND-COLOR: #C0C0C0"></a>
 <!---<a href="cierreFINAL.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Cerrar diferencias de carga hasta ayer</b></a>--->
 </td>
 <td>
-<a href="cierreFORZADO.asp" target="_self"><input type="button" name="cargaCI" value="Ver todos los paquetes forzados el cierre hasta ayer" style="FONT-SIZE: 20pt; border: 5px solid;width:600px; [b]FONT-FAMILY: Verdana, boldt[/b];
+<a href="cierreFORZADO.asp" target="_self"><input type="button" name="cargaCI" value="Paquetes forzados el cierre hasta ayer" style="FONT-SIZE: 20pt; border: 5px solid;width:600px; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a>
 <br>
 
