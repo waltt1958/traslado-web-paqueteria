@@ -1,6 +1,7 @@
 <HTML>
 <HEAD>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" title="estilos.css" type="text/css" href="estilos.css">
 <title> VER DIFERENCIAS</title>
 </HEAD>
 <body bgcolor="WHITE" onload="maximizar()">
@@ -31,6 +32,7 @@ rsNOleyoCI.open sqlCI,conectarOEP
 
 
 %>
+<BR>
 <TABLE WIDTH= "100%" border="3" bordercolor="black">
 
 <TR><CENTER><P ALIGN="CENTER"><FONT SIZE="6"><b><U> PAQUETES LEIDOS EN PAQUETERIA Y NO LEIDOS EN EL CI</U></FONT SIZE></b></P></CENTER></TR>
