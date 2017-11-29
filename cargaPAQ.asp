@@ -29,20 +29,40 @@
 
 <table width="100%">
 <tr align="center">
-<td>
-<a href="CARGADOenPAQ.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Ver e imprimir todo lo cargado</b></a>
+<td align="center">
+<a href="CARGADOenPAQ.asp" target="_self"><input type="button" name="cargaCI" value="Ver e imprimir todo lo cargado" style="FONT-SIZE: 20pt; border: 5px solid;width=600px; [b]FONT-FAMILY: Verdana, boldt[/b];
+BACKGROUND-COLOR: #C0C0C0"></a>
+<br>
+
+<!---<a href="CARGADOenPAQ.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Ver e imprimir todo lo cargado</b></a>--->
 </td>
 <td>
-<a href="intermedia.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Ver diferencias de carga</b></a>
+
+<a href="intermedia.asp" target="_self"><input type="button" name="cargaCI" value="Ver diferencias de carga" style="FONT-SIZE: 20pt; border: 5px solid;width=600px; [b]FONT-FAMILY: Verdana, boldt[/b];
+BACKGROUND-COLOR: #C0C0C0"></a>
+<br>
+
+<!---<a href="intermedia.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Ver diferencias de carga</b></a>--->
 </td>
 </tr>
 
-<tr>
+<tr align="center">
 <td>
-<a href="intermedia.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Cerrar diferencias de carga hasta ayer</b></a>
+
+<a href="intermedia.asp" target="_self"><input type="button" name="cargaCI" value="Cerrar diferencias de carga hasta ayer" style="FONT-SIZE: 20pt; border: 5px solid;width=600px; [b]FONT-FAMILY: Verdana, boldt[/b];
+BACKGROUND-COLOR: #C0C0C0"></a>
+<br>
+
+<!---<a href="intermedia.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Cerrar diferencias de carga hasta ayer</b></a>--->
+
 </td>
 <td>
-<a href="cierreFORZADO.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Ver todos los paquetes forzados el cierre hasta ayer</b></a>
+
+<a href="cierreFORZADO.asp" target="_self"><input type="button" name="cargaCI" value="Ver todos los paquetes forzados el cierre hasta ayer" style="FONT-SIZE: 20pt; width=600px;border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
+BACKGROUND-COLOR: #C0C0C0"></a>
+<br>
+
+<!---<a href="cierreFORZADO.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Ver todos los paquetes forzados el cierre hasta ayer</b></a>--->
 </td>
 </tr>
 <tr align="center">
