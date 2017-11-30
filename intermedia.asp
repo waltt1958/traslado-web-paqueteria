@@ -14,7 +14,7 @@
 <table width="100%">
 <tr	align="center">
 <td>
-<a href="buscaDIFERENCIAS.asp" target="_self"><input type="button" name="cargaCI" value="Ver diferencias de carga" style="FONT-SIZE: 20pt; border: 5px solid;width:600px; [b]FONT-FAMILY: Verdana, boldt[/b];
+<a href="buscaDIFERENCIAS.asp" target="_self"><input type="button" name="buscaDIFERENCIAS" value="Ver diferencias de carga" style="FONT-SIZE: 20pt; border: 5px solid;width:600px; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a>
 <br>
 
@@ -22,7 +22,7 @@ BACKGROUND-COLOR: #C0C0C0"></a>
 
 </td>
 <td>
-<a href="CARGADOenPAQ.asp" target="_self"><input type="button" name="cargaCI" value="Ver e imprimir todo lo cargado" style="FONT-SIZE: 20pt; border: 5px solid;width:600px; [b]FONT-FAMILY: Verdana, boldt[/b];
+<a href="CARGADOenPAQ.asp" target="_self"><input type="button" name="CARGADOenPAQ" value="Ver e imprimir todo lo cargado" style="FONT-SIZE: 20pt; border: 5px solid;width:600px; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a>
 <br>
 
@@ -31,14 +31,14 @@ BACKGROUND-COLOR: #C0C0C0"></a>
 </tr>
 <tr align="center">
 <td>
-<a href="cierreFINAL.asp" target="_self"><input type="button" name="cargaCI" value="Cerrar diferencias de carga hasta ayer" style="FONT-SIZE: 20pt; border: 5px solid;width:600px; [b]FONT-FAMILY: Verdana, boldt[/b];
+<a href="cierreFINAL.asp" target="_self"><input type="button" name="cierreFINAL" value="Cerrar diferencias de carga hasta ayer" style="FONT-SIZE: 20pt; border: 5px solid;width:600px; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a>
 <br>
 
 <!---<a href="cierreFINAL.asp" TARGET="_self"><font size="6"><FONT COLOR="BLACK"><b>Cerrar diferencias de carga hasta ayer</b></a>--->
 </td>
 <td>
-<a href="cierreFORZADO.asp" target="_self"><input type="button" name="cargaCI" value="Paquetes forzados el cierre hasta ayer" style="FONT-SIZE: 20pt; border: 5px solid;width:600px; [b]FONT-FAMILY: Verdana, boldt[/b];
+<a href="cierreFORZADO.asp" target="_self"><input type="button" name="forzado" value="Paquetes forzados el cierre hasta ayer" style="FONT-SIZE: 20pt; border: 5px solid;width:600px; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a>
 <br>
 
@@ -48,7 +48,7 @@ BACKGROUND-COLOR: #C0C0C0"></a>
 <tr align="center">
 <td colspan=2>
 <br>
-<a href="index.asp" target="_self"><input type="button" name="INTERMEDIA" value="INICIO" style="FONT-SIZE: 20pt; border: 5px solid; width:150px;[b]FONT-FAMILY: Verdana, boldt[/b];
+<a href="index.asp" target="_self"><input type="button" name="inicial" value="INICIO" style="FONT-SIZE: 20pt; border: 5px solid; width:150px;[b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a>
 </td>
 </tr>

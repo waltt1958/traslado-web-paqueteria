@@ -121,7 +121,7 @@ conectarOEP.close
 
 <table width="100%">
 <td align="center">
-<a href="index.asp" target="_self"><input type="button" name="cierreFORZADO" value="INICIO" style="FONT-SIZE: 20pt; border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
+<a href="index.asp" target="_self"><input type="button" name="inicia" value="INICIO" style="FONT-SIZE: 20pt; border: 5px solid; [b]FONT-FAMILY: Verdana, boldt[/b];
 BACKGROUND-COLOR: #C0C0C0"></a>
 </td>
 </table>
